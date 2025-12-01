@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+pathlib
+openpyxl
+os
+seaborn
+sklearn
+warnings

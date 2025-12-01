@@ -1,0 +1,301 @@
+cliente_id,edad,región,fecha_encuesta,linea_usada,satisfaccion,comentarios,anio_encuesta,mes_encuesta,edad_grupo,es_linea_joven
+10000,27,Oeste,2025-04-14,linea_orgánica,2,Precio elevado,2025,4,25-34,False
+10001,45,Norte,2025-03-04,linea_profesional,4,Muy buen aroma,2025,3,35-49,False
+10002,22,Este,2025-03-12,linea_profesional,4,Excelente producto,2025,3,18-24,False
+10003,19,Norte,2025-02-05,linea_orgánica,1,No vi resultados,2025,2,18-24,False
+10004,25,Sur,2025-02-17,linea_orgánica,5,No vi resultados,2025,2,25-34,False
+10005,36,Este,2025-02-24,linea_joven,5,No vi resultados,2025,2,35-49,True
+10006,40,Norte,2025-01-02,linea_joven,5,Muy buen aroma,2025,1,35-49,True
+10007,37,Centro,2024-09-20,linea_profesional,3,Lo volvería a comprar,2024,9,35-49,False
+10008,30,Sur,2024-05-02,linea_profesional,5,Precio elevado,2024,5,25-34,False
+10009,30,Oeste,2024-12-21,linea_joven,5,Lo volvería a comprar,2024,12,25-34,True
+10010,45,Sur,2024-09-30,linea_profesional,3,No vi resultados,2024,9,35-49,False
+10011,35,Oeste,2024-11-27,linea_orgánica,2,Lo volvería a comprar,2024,11,35-49,False
+10012,44,Centro,2024-09-01,linea_profesional,5,Precio elevado,2024,9,35-49,False
+10013,37,Sur,2024-05-23,linea_joven,3,Muy buen aroma,2024,5,35-49,True
+10014,43,Este,2025-03-16,linea_joven,3,Excelente producto,2025,3,35-49,True
+10015,22,Sur,2025-02-17,linea_orgánica,5,Muy buen aroma,2025,2,18-24,False
+10016,31,Oeste,2024-06-15,linea_joven,5,Me causó irritación,2024,6,25-34,True
+10017,19,Norte,2025-04-27,linea_profesional,2,Excelente producto,2025,4,18-24,False
+10018,43,Este,2024-11-17,linea_profesional,5,No vi resultados,2024,11,35-49,False
+10019,39,Oeste,2025-02-24,linea_joven,5,Muy buen aroma,2025,2,35-49,True
+10020,32,Este,2024-08-18,linea_orgánica,2,No vi resultados,2024,8,25-34,False
+10021,32,Centro,2024-08-25,linea_joven,1,Me causó irritación,2024,8,25-34,True
+10022,38,Centro,2024-07-07,linea_profesional,1,No vi resultados,2024,7,35-49,False
+10023,44,Centro,2024-09-23,linea_profesional,4,Lo volvería a comprar,2024,9,35-49,False
+10024,40,Centro,2024-06-20,linea_orgánica,4,No vi resultados,2024,6,35-49,False
+10025,27,Norte,2024-12-16,linea_profesional,5,No me gustó la textura,2024,12,25-34,False
+10026,35,Oeste,2025-04-28,linea_joven,1,Lo volvería a comprar,2025,4,35-49,True
+10027,39,Oeste,2024-06-09,linea_joven,2,Me causó irritación,2024,6,35-49,True
+10028,45,Sur,2025-03-07,linea_joven,4,Lo volvería a comprar,2025,3,35-49,True
+10029,37,Oeste,2025-03-18,linea_profesional,4,Muy buen aroma,2025,3,35-49,False
+10030,30,Este,2024-10-18,linea_orgánica,4,Precio elevado,2024,10,25-34,False
+10031,42,Norte,2025-01-27,linea_profesional,2,Muy buen aroma,2025,1,35-49,False
+10032,43,Norte,2024-12-25,linea_profesional,2,Muy buen aroma,2024,12,35-49,False
+10033,44,Oeste,2024-11-20,linea_joven,3,No me gustó la textura,2024,11,35-49,True
+10034,31,Centro,2024-10-14,linea_joven,5,Me causó irritación,2024,10,25-34,True
+10035,25,Sur,2024-06-15,linea_joven,2,Me causó irritación,2024,6,25-34,True
+10036,19,Sur,2024-10-19,linea_joven,5,Excelente producto,2024,10,18-24,True
+10037,41,Norte,2025-04-13,linea_profesional,4,Lo volvería a comprar,2025,4,35-49,False
+10038,31,Centro,2024-09-30,linea_joven,3,No me gustó la textura,2024,9,25-34,True
+10039,21,Centro,2025-03-23,linea_profesional,3,No me gustó la textura,2025,3,18-24,False
+10040,26,Centro,2024-08-20,linea_profesional,2,Me causó irritación,2024,8,25-34,False
+10041,34,Oeste,2024-09-22,linea_joven,1,No vi resultados,2024,9,25-34,True
+10042,20,Centro,2024-07-12,linea_joven,1,No vi resultados,2024,7,18-24,True
+10043,21,Oeste,2024-07-13,linea_joven,4,Excelente producto,2024,7,18-24,True
+10044,34,Oeste,2024-07-04,linea_joven,3,Excelente producto,2024,7,25-34,True
+10045,25,Oeste,2024-11-12,linea_orgánica,3,Precio elevado,2024,11,25-34,False
+10046,40,Este,2025-04-18,linea_orgánica,2,Lo volvería a comprar,2025,4,35-49,False
+10047,37,Sur,2025-01-09,linea_profesional,5,Lo volvería a comprar,2025,1,35-49,False
+10048,30,Sur,2024-10-26,linea_orgánica,2,Me causó irritación,2024,10,25-34,False
+10049,39,Oeste,2024-06-28,linea_joven,2,Lo volvería a comprar,2024,6,35-49,True
+10050,33,Sur,2024-12-16,linea_orgánica,4,No me gustó la textura,2024,12,25-34,False
+10051,26,Oeste,2025-03-05,linea_profesional,1,Me causó irritación,2025,3,25-34,False
+10052,37,Centro,2024-11-29,linea_orgánica,5,Lo volvería a comprar,2024,11,35-49,False
+10053,18,Centro,2025-02-24,linea_profesional,1,No vi resultados,2025,2,18-24,False
+10054,25,Este,2024-11-19,linea_profesional,5,Excelente producto,2024,11,25-34,False
+10055,37,Este,2024-06-12,linea_profesional,1,Precio elevado,2024,6,35-49,False
+10056,40,Oeste,2025-01-18,linea_profesional,5,Lo volvería a comprar,2025,1,35-49,False
+10057,25,Oeste,2024-12-06,linea_profesional,5,Excelente producto,2024,12,25-34,False
+10058,32,Oeste,2024-11-14,linea_joven,5,Excelente producto,2024,11,25-34,True
+10059,18,Oeste,2024-05-17,linea_profesional,5,Me causó irritación,2024,5,18-24,False
+10060,19,Centro,2025-01-31,linea_joven,1,No vi resultados,2025,1,18-24,True
+10061,22,Sur,2025-01-26,linea_profesional,1,No vi resultados,2025,1,18-24,False
+10062,32,Centro,2024-05-20,linea_orgánica,1,No vi resultados,2024,5,25-34,False
+10063,39,Norte,2024-08-26,linea_joven,1,Me causó irritación,2024,8,35-49,True
+10064,44,Sur,2024-12-27,linea_joven,2,Excelente producto,2024,12,35-49,True
+10065,39,Oeste,2024-10-24,linea_joven,3,Precio elevado,2024,10,35-49,True
+10066,44,Este,2025-03-20,linea_profesional,3,Excelente producto,2025,3,35-49,False
+10067,29,Sur,2025-01-02,linea_orgánica,3,Muy buen aroma,2025,1,25-34,False
+10068,20,Sur,2024-10-21,linea_profesional,4,Me causó irritación,2024,10,18-24,False
+10069,34,Sur,2025-02-07,linea_orgánica,4,Precio elevado,2025,2,25-34,False
+10070,43,Este,2024-07-12,linea_profesional,2,Me causó irritación,2024,7,35-49,False
+10071,23,Centro,2025-02-23,linea_joven,5,Me causó irritación,2025,2,18-24,True
+10072,30,Norte,2024-05-18,linea_orgánica,1,No vi resultados,2024,5,25-34,False
+10073,42,Este,2024-09-15,linea_orgánica,3,No me gustó la textura,2024,9,35-49,False
+10074,37,Oeste,2024-07-25,linea_profesional,1,No vi resultados,2024,7,35-49,False
+10075,27,Norte,2025-01-14,linea_joven,4,Muy buen aroma,2025,1,25-34,True
+10076,18,Sur,2025-04-02,linea_profesional,4,No me gustó la textura,2025,4,18-24,False
+10077,40,Norte,2025-02-28,linea_orgánica,2,No vi resultados,2025,2,35-49,False
+10078,32,Norte,2025-04-20,linea_orgánica,4,Precio elevado,2025,4,25-34,False
+10079,29,Oeste,2024-12-03,linea_profesional,3,Lo volvería a comprar,2024,12,25-34,False
+10080,19,Oeste,2024-10-08,linea_orgánica,1,Muy buen aroma,2024,10,18-24,False
+10081,33,Centro,2024-08-30,linea_profesional,3,Excelente producto,2024,8,25-34,False
+10082,22,Este,2025-01-22,linea_profesional,3,Me causó irritación,2025,1,18-24,False
+10083,35,Centro,2025-01-17,linea_orgánica,3,Precio elevado,2025,1,35-49,False
+10084,36,Sur,2025-02-12,linea_joven,5,Lo volvería a comprar,2025,2,35-49,True
+10085,39,Oeste,2024-12-31,linea_profesional,2,Precio elevado,2024,12,35-49,False
+10086,45,Sur,2025-01-21,linea_joven,1,Muy buen aroma,2025,1,35-49,True
+10087,21,Oeste,2024-12-31,linea_profesional,1,No vi resultados,2024,12,18-24,False
+10088,37,Centro,2024-10-27,linea_orgánica,5,No vi resultados,2024,10,35-49,False
+10089,31,Oeste,2025-03-31,linea_profesional,1,Excelente producto,2025,3,25-34,False
+10090,25,Sur,2024-08-01,linea_orgánica,1,Precio elevado,2024,8,25-34,False
+10091,21,Norte,2024-05-05,linea_joven,3,Excelente producto,2024,5,18-24,True
+10092,24,Oeste,2024-06-12,linea_orgánica,2,Precio elevado,2024,6,18-24,False
+10093,42,Oeste,2024-08-06,linea_orgánica,4,Precio elevado,2024,8,35-49,False
+10094,27,Oeste,2024-06-22,linea_joven,1,No vi resultados,2024,6,25-34,True
+10095,43,Centro,2024-08-20,linea_profesional,5,Precio elevado,2024,8,35-49,False
+10096,34,Centro,2025-04-27,linea_profesional,5,Excelente producto,2025,4,25-34,False
+10097,41,Este,2024-10-24,linea_orgánica,2,Me causó irritación,2024,10,35-49,False
+10098,39,Oeste,2025-03-28,linea_orgánica,5,Lo volvería a comprar,2025,3,35-49,False
+10099,26,Centro,2024-05-22,linea_joven,1,Muy buen aroma,2024,5,25-34,True
+10100,31,Norte,2024-05-28,linea_joven,4,No me gustó la textura,2024,5,25-34,True
+10101,30,Centro,2024-08-02,linea_orgánica,2,No me gustó la textura,2024,8,25-34,False
+10102,23,Este,2024-08-17,linea_joven,5,Muy buen aroma,2024,8,18-24,True
+10103,33,Este,2024-08-12,linea_joven,4,Lo volvería a comprar,2024,8,25-34,True
+10104,33,Norte,2025-01-19,linea_joven,5,Muy buen aroma,2025,1,25-34,True
+10105,21,Centro,2024-07-13,linea_orgánica,3,Excelente producto,2024,7,18-24,False
+10106,40,Sur,2025-03-25,linea_joven,5,Precio elevado,2025,3,35-49,True
+10107,36,Este,2025-03-20,linea_joven,1,Muy buen aroma,2025,3,35-49,True
+10108,36,Oeste,2024-05-23,linea_profesional,1,Precio elevado,2024,5,35-49,False
+10109,43,Oeste,2024-09-17,linea_orgánica,5,No me gustó la textura,2024,9,35-49,False
+10110,32,Este,2024-09-20,linea_profesional,3,Me causó irritación,2024,9,25-34,False
+10111,39,Centro,2024-12-04,linea_profesional,1,Excelente producto,2024,12,35-49,False
+10112,26,Norte,2024-08-29,linea_joven,3,Me causó irritación,2024,8,25-34,True
+10113,18,Este,2024-05-06,linea_orgánica,1,Excelente producto,2024,5,18-24,False
+10114,21,Oeste,2024-12-31,linea_orgánica,3,Precio elevado,2024,12,18-24,False
+10115,39,Oeste,2024-05-17,linea_profesional,3,Me causó irritación,2024,5,35-49,False
+10116,44,Centro,2024-10-15,linea_profesional,5,Muy buen aroma,2024,10,35-49,False
+10117,28,Norte,2024-05-13,linea_joven,1,Me causó irritación,2024,5,25-34,True
+10118,20,Oeste,2024-08-07,linea_profesional,3,Precio elevado,2024,8,18-24,False
+10119,30,Sur,2024-06-08,linea_orgánica,4,Excelente producto,2024,6,25-34,False
+10120,27,Sur,2025-04-21,linea_profesional,5,Lo volvería a comprar,2025,4,25-34,False
+10121,38,Oeste,2025-04-15,linea_orgánica,2,Precio elevado,2025,4,35-49,False
+10122,21,Norte,2024-06-19,linea_orgánica,3,Lo volvería a comprar,2024,6,18-24,False
+10123,34,Sur,2024-10-13,linea_joven,3,Precio elevado,2024,10,25-34,True
+10124,44,Este,2024-09-20,linea_orgánica,3,No vi resultados,2024,9,35-49,False
+10125,22,Sur,2024-06-06,linea_joven,2,Muy buen aroma,2024,6,18-24,True
+10126,37,Norte,2025-03-08,linea_orgánica,1,Precio elevado,2025,3,35-49,False
+10127,45,Este,2024-06-06,linea_orgánica,4,Me causó irritación,2024,6,35-49,False
+10128,37,Centro,2025-01-06,linea_profesional,4,Muy buen aroma,2025,1,35-49,False
+10129,22,Sur,2024-11-20,linea_joven,1,Lo volvería a comprar,2024,11,18-24,True
+10130,38,Norte,2024-11-10,linea_orgánica,5,No me gustó la textura,2024,11,35-49,False
+10131,41,Este,2025-03-16,linea_joven,2,No vi resultados,2025,3,35-49,True
+10132,37,Oeste,2025-01-20,linea_profesional,3,Lo volvería a comprar,2025,1,35-49,False
+10133,35,Centro,2025-01-30,linea_orgánica,3,Me causó irritación,2025,1,35-49,False
+10134,38,Sur,2025-02-22,linea_profesional,4,Lo volvería a comprar,2025,2,35-49,False
+10135,26,Norte,2024-05-16,linea_orgánica,5,Excelente producto,2024,5,25-34,False
+10136,31,Norte,2025-03-06,linea_orgánica,4,Excelente producto,2025,3,25-34,False
+10137,35,Sur,2024-06-04,linea_profesional,1,Excelente producto,2024,6,35-49,False
+10138,32,Sur,2024-10-11,linea_orgánica,4,Lo volvería a comprar,2024,10,25-34,False
+10139,22,Sur,2024-10-12,linea_joven,1,No vi resultados,2024,10,18-24,True
+10140,45,Centro,2024-08-06,linea_profesional,4,Precio elevado,2024,8,35-49,False
+10141,22,Oeste,2024-12-14,linea_orgánica,4,Excelente producto,2024,12,18-24,False
+10142,22,Sur,2024-05-06,linea_orgánica,3,Me causó irritación,2024,5,18-24,False
+10143,30,Norte,2024-10-21,linea_profesional,5,Muy buen aroma,2024,10,25-34,False
+10144,23,Norte,2024-10-08,linea_joven,2,Muy buen aroma,2024,10,18-24,True
+10145,41,Sur,2025-03-25,linea_joven,2,No me gustó la textura,2025,3,35-49,True
+10146,22,Centro,2024-07-20,linea_orgánica,4,Lo volvería a comprar,2024,7,18-24,False
+10147,18,Centro,2025-03-14,linea_profesional,3,No vi resultados,2025,3,18-24,False
+10148,43,Sur,2024-11-04,linea_joven,3,No me gustó la textura,2024,11,35-49,True
+10149,37,Oeste,2025-02-07,linea_profesional,5,Lo volvería a comprar,2025,2,35-49,False
+10150,31,Norte,2024-12-14,linea_orgánica,4,Muy buen aroma,2024,12,25-34,False
+10151,21,Norte,2024-06-04,linea_orgánica,3,Me causó irritación,2024,6,18-24,False
+10152,20,Este,2024-06-27,linea_orgánica,5,No me gustó la textura,2024,6,18-24,False
+10153,32,Centro,2024-11-01,linea_profesional,5,No me gustó la textura,2024,11,25-34,False
+10154,35,Este,2024-08-04,linea_profesional,2,Lo volvería a comprar,2024,8,35-49,False
+10155,21,Oeste,2025-02-21,linea_orgánica,5,Lo volvería a comprar,2025,2,18-24,False
+10156,35,Centro,2024-05-06,linea_joven,4,No vi resultados,2024,5,35-49,True
+10157,20,Centro,2024-06-19,linea_profesional,4,Precio elevado,2024,6,18-24,False
+10158,43,Norte,2024-11-16,linea_profesional,1,Muy buen aroma,2024,11,35-49,False
+10159,20,Oeste,2025-04-22,linea_profesional,1,Lo volvería a comprar,2025,4,18-24,False
+10160,36,Norte,2025-02-03,linea_joven,5,Me causó irritación,2025,2,35-49,True
+10161,27,Oeste,2025-02-10,linea_orgánica,5,No vi resultados,2025,2,25-34,False
+10162,28,Centro,2025-02-23,linea_joven,4,Precio elevado,2025,2,25-34,True
+10163,37,Sur,2024-12-11,linea_profesional,1,Me causó irritación,2024,12,35-49,False
+10164,27,Centro,2024-08-01,linea_profesional,5,Precio elevado,2024,8,25-34,False
+10165,38,Este,2025-04-01,linea_orgánica,4,Excelente producto,2025,4,35-49,False
+10166,34,Centro,2025-01-12,linea_joven,4,Lo volvería a comprar,2025,1,25-34,True
+10167,20,Norte,2025-01-21,linea_profesional,1,Precio elevado,2025,1,18-24,False
+10168,32,Este,2024-11-13,linea_joven,5,Precio elevado,2024,11,25-34,True
+10169,39,Este,2024-10-18,linea_profesional,3,No vi resultados,2024,10,35-49,False
+10170,18,Centro,2025-03-06,linea_orgánica,3,Muy buen aroma,2025,3,18-24,False
+10171,28,Este,2025-01-16,linea_profesional,4,No me gustó la textura,2025,1,25-34,False
+10172,30,Este,2024-10-11,linea_joven,2,Precio elevado,2024,10,25-34,True
+10173,27,Este,2024-12-10,linea_joven,2,Lo volvería a comprar,2024,12,25-34,True
+10174,37,Oeste,2025-02-23,linea_profesional,3,Precio elevado,2025,2,35-49,False
+10175,38,Norte,2024-07-10,linea_profesional,1,Muy buen aroma,2024,7,35-49,False
+10176,38,Sur,2025-01-03,linea_joven,1,No me gustó la textura,2025,1,35-49,True
+10177,29,Oeste,2025-04-08,linea_orgánica,1,No vi resultados,2025,4,25-34,False
+10178,31,Centro,2024-08-19,linea_profesional,5,No vi resultados,2024,8,25-34,False
+10179,38,Este,2024-06-30,linea_orgánica,2,Lo volvería a comprar,2024,6,35-49,False
+10180,20,Centro,2024-08-15,linea_joven,2,Lo volvería a comprar,2024,8,18-24,True
+10181,34,Sur,2025-02-05,linea_profesional,2,No me gustó la textura,2025,2,25-34,False
+10182,33,Sur,2025-01-31,linea_orgánica,5,No me gustó la textura,2025,1,25-34,False
+10183,42,Centro,2025-04-05,linea_profesional,2,No vi resultados,2025,4,35-49,False
+10184,43,Este,2025-04-16,linea_joven,2,Excelente producto,2025,4,35-49,True
+10185,28,Oeste,2025-04-12,linea_orgánica,2,No me gustó la textura,2025,4,25-34,False
+10186,34,Norte,2025-03-01,linea_profesional,1,Precio elevado,2025,3,25-34,False
+10187,35,Oeste,2025-03-17,linea_joven,3,Precio elevado,2025,3,35-49,True
+10188,30,Centro,2024-08-28,linea_profesional,3,No vi resultados,2024,8,25-34,False
+10189,44,Norte,2024-10-18,linea_orgánica,5,Me causó irritación,2024,10,35-49,False
+10190,33,Oeste,2025-01-24,linea_profesional,1,Precio elevado,2025,1,25-34,False
+10191,45,Este,2024-08-02,linea_profesional,3,No vi resultados,2024,8,35-49,False
+10192,43,Este,2024-09-28,linea_joven,1,Lo volvería a comprar,2024,9,35-49,True
+10193,37,Oeste,2024-11-28,linea_joven,3,No me gustó la textura,2024,11,35-49,True
+10194,18,Oeste,2024-08-10,linea_profesional,1,No me gustó la textura,2024,8,18-24,False
+10195,40,Este,2024-07-22,linea_profesional,4,Precio elevado,2024,7,35-49,False
+10196,32,Sur,2024-12-29,linea_profesional,3,Excelente producto,2024,12,25-34,False
+10197,36,Centro,2025-01-16,linea_orgánica,2,No vi resultados,2025,1,35-49,False
+10198,36,Sur,2024-12-18,linea_profesional,4,Me causó irritación,2024,12,35-49,False
+10199,21,Sur,2024-06-01,linea_joven,4,Me causó irritación,2024,6,18-24,True
+10200,32,Oeste,2024-05-22,linea_orgánica,1,Muy buen aroma,2024,5,25-34,False
+10201,25,Centro,2024-05-20,linea_profesional,3,No vi resultados,2024,5,25-34,False
+10202,25,Oeste,2024-08-22,linea_orgánica,4,No me gustó la textura,2024,8,25-34,False
+10203,37,Norte,2025-04-17,linea_profesional,2,Lo volvería a comprar,2025,4,35-49,False
+10204,19,Este,2025-03-26,linea_joven,4,Muy buen aroma,2025,3,18-24,True
+10205,39,Centro,2025-01-26,linea_orgánica,3,Excelente producto,2025,1,35-49,False
+10206,37,Norte,2024-10-01,linea_joven,4,Precio elevado,2024,10,35-49,True
+10207,45,Sur,2024-09-03,linea_joven,4,Precio elevado,2024,9,35-49,True
+10208,45,Centro,2024-11-25,linea_joven,5,Me causó irritación,2024,11,35-49,True
+10209,26,Norte,2024-07-23,linea_joven,2,Me causó irritación,2024,7,25-34,True
+10210,41,Este,2024-07-15,linea_orgánica,1,Excelente producto,2024,7,35-49,False
+10211,30,Oeste,2025-04-30,linea_profesional,3,No me gustó la textura,2025,4,25-34,False
+10212,40,Oeste,2024-11-21,linea_profesional,3,Precio elevado,2024,11,35-49,False
+10213,29,Centro,2025-02-23,linea_orgánica,5,Me causó irritación,2025,2,25-34,False
+10214,33,Oeste,2024-12-11,linea_profesional,1,Muy buen aroma,2024,12,25-34,False
+10215,22,Este,2024-09-27,linea_joven,4,No vi resultados,2024,9,18-24,True
+10216,39,Sur,2024-11-22,linea_profesional,1,Precio elevado,2024,11,35-49,False
+10217,19,Este,2024-07-19,linea_joven,3,Lo volvería a comprar,2024,7,18-24,True
+10218,43,Centro,2024-08-05,linea_profesional,5,Lo volvería a comprar,2024,8,35-49,False
+10219,34,Sur,2024-06-14,linea_profesional,2,No me gustó la textura,2024,6,25-34,False
+10220,29,Norte,2024-06-10,linea_joven,5,Precio elevado,2024,6,25-34,True
+10221,23,Este,2024-09-20,linea_orgánica,4,No me gustó la textura,2024,9,18-24,False
+10222,33,Centro,2024-12-26,linea_joven,4,No me gustó la textura,2024,12,25-34,True
+10223,20,Este,2024-08-09,linea_profesional,1,Lo volvería a comprar,2024,8,18-24,False
+10224,23,Oeste,2024-06-17,linea_orgánica,2,Me causó irritación,2024,6,18-24,False
+10225,20,Norte,2024-12-04,linea_orgánica,2,Excelente producto,2024,12,18-24,False
+10226,37,Centro,2025-04-10,linea_profesional,5,Muy buen aroma,2025,4,35-49,False
+10227,44,Norte,2024-05-20,linea_profesional,2,No me gustó la textura,2024,5,35-49,False
+10228,31,Oeste,2024-07-19,linea_orgánica,3,Excelente producto,2024,7,25-34,False
+10229,44,Oeste,2024-07-26,linea_profesional,5,Muy buen aroma,2024,7,35-49,False
+10230,24,Oeste,2024-07-24,linea_orgánica,5,Muy buen aroma,2024,7,18-24,False
+10231,29,Este,2024-10-15,linea_joven,3,Precio elevado,2024,10,25-34,True
+10232,35,Este,2024-05-29,linea_orgánica,1,Muy buen aroma,2024,5,35-49,False
+10233,35,Este,2024-12-16,linea_joven,4,No vi resultados,2024,12,35-49,True
+10234,23,Sur,2025-01-24,linea_joven,5,No me gustó la textura,2025,1,18-24,True
+10235,27,Este,2025-01-25,linea_orgánica,4,No vi resultados,2025,1,25-34,False
+10236,31,Centro,2024-09-14,linea_profesional,4,No me gustó la textura,2024,9,25-34,False
+10237,42,Centro,2024-05-21,linea_joven,4,Muy buen aroma,2024,5,35-49,True
+10238,28,Norte,2025-04-14,linea_joven,5,Me causó irritación,2025,4,25-34,True
+10239,21,Centro,2024-09-22,linea_joven,4,Excelente producto,2024,9,18-24,True
+10240,23,Sur,2025-03-28,linea_profesional,1,Me causó irritación,2025,3,18-24,False
+10241,44,Oeste,2025-01-04,linea_joven,1,Excelente producto,2025,1,35-49,True
+10242,20,Oeste,2025-03-04,linea_joven,1,Excelente producto,2025,3,18-24,True
+10243,18,Centro,2024-07-25,linea_joven,1,No me gustó la textura,2024,7,18-24,True
+10244,29,Este,2025-03-27,linea_profesional,4,Excelente producto,2025,3,25-34,False
+10245,33,Norte,2024-05-13,linea_orgánica,4,Excelente producto,2024,5,25-34,False
+10246,42,Norte,2024-06-27,linea_orgánica,1,Excelente producto,2024,6,35-49,False
+10247,32,Centro,2025-01-28,linea_orgánica,4,Excelente producto,2025,1,25-34,False
+10248,20,Norte,2024-05-08,linea_profesional,1,Muy buen aroma,2024,5,18-24,False
+10249,34,Este,2024-08-14,linea_joven,3,No me gustó la textura,2024,8,25-34,True
+10250,37,Centro,2025-03-31,linea_orgánica,2,Excelente producto,2025,3,35-49,False
+10251,28,Norte,2025-02-16,linea_profesional,5,Lo volvería a comprar,2025,2,25-34,False
+10252,42,Sur,2024-07-24,linea_orgánica,1,No vi resultados,2024,7,35-49,False
+10253,43,Centro,2025-01-23,linea_joven,2,No vi resultados,2025,1,35-49,True
+10254,31,Centro,2024-12-25,linea_profesional,2,No me gustó la textura,2024,12,25-34,False
+10255,35,Centro,2024-12-09,linea_orgánica,4,No vi resultados,2024,12,35-49,False
+10256,26,Norte,2025-01-13,linea_profesional,1,Muy buen aroma,2025,1,25-34,False
+10257,32,Este,2024-05-29,linea_orgánica,5,Me causó irritación,2024,5,25-34,False
+10258,44,Oeste,2025-04-14,linea_orgánica,3,No me gustó la textura,2025,4,35-49,False
+10259,42,Norte,2025-02-13,linea_profesional,4,No me gustó la textura,2025,2,35-49,False
+10260,24,Sur,2025-04-11,linea_profesional,4,Precio elevado,2025,4,18-24,False
+10261,21,Centro,2024-11-21,linea_profesional,3,No me gustó la textura,2024,11,18-24,False
+10262,21,Este,2024-11-09,linea_profesional,1,Me causó irritación,2024,11,18-24,False
+10263,42,Este,2024-11-13,linea_orgánica,1,Me causó irritación,2024,11,35-49,False
+10264,29,Centro,2024-08-27,linea_profesional,5,No me gustó la textura,2024,8,25-34,False
+10265,38,Centro,2025-01-25,linea_joven,4,No vi resultados,2025,1,35-49,True
+10266,21,Oeste,2024-06-02,linea_orgánica,4,Me causó irritación,2024,6,18-24,False
+10267,38,Oeste,2024-12-05,linea_profesional,4,Me causó irritación,2024,12,35-49,False
+10268,30,Oeste,2024-05-07,linea_orgánica,4,Muy buen aroma,2024,5,25-34,False
+10269,34,Oeste,2025-02-25,linea_joven,3,No vi resultados,2025,2,25-34,True
+10270,41,Oeste,2024-10-05,linea_joven,2,Muy buen aroma,2024,10,35-49,True
+10271,35,Oeste,2024-06-17,linea_joven,2,No me gustó la textura,2024,6,35-49,True
+10272,41,Este,2024-11-08,linea_orgánica,3,Precio elevado,2024,11,35-49,False
+10273,32,Oeste,2024-12-26,linea_orgánica,1,Precio elevado,2024,12,25-34,False
+10274,43,Oeste,2025-03-24,linea_joven,3,Lo volvería a comprar,2025,3,35-49,True
+10275,22,Este,2024-12-31,linea_orgánica,2,Excelente producto,2024,12,18-24,False
+10276,24,Este,2024-09-02,linea_profesional,4,Muy buen aroma,2024,9,18-24,False
+10277,25,Norte,2025-03-21,linea_joven,2,Me causó irritación,2025,3,25-34,True
+10278,25,Centro,2025-01-27,linea_joven,5,Lo volvería a comprar,2025,1,25-34,True
+10279,25,Centro,2024-11-03,linea_orgánica,5,No vi resultados,2024,11,25-34,False
+10280,34,Oeste,2025-04-01,linea_joven,3,Me causó irritación,2025,4,25-34,True
+10281,30,Centro,2024-06-12,linea_profesional,4,Lo volvería a comprar,2024,6,25-34,False
+10282,29,Oeste,2025-02-02,linea_profesional,5,Lo volvería a comprar,2025,2,25-34,False
+10283,38,Sur,2024-07-07,linea_profesional,3,Excelente producto,2024,7,35-49,False
+10284,42,Oeste,2024-05-20,linea_profesional,3,Muy buen aroma,2024,5,35-49,False
+10285,35,Sur,2025-01-29,linea_profesional,5,No vi resultados,2025,1,35-49,False
+10286,33,Este,2024-10-26,linea_orgánica,3,Muy buen aroma,2024,10,25-34,False
+10287,25,Centro,2024-08-09,linea_profesional,4,No me gustó la textura,2024,8,25-34,False
+10288,21,Oeste,2024-10-25,linea_profesional,2,Precio elevado,2024,10,18-24,False
+10289,44,Este,2024-09-22,linea_orgánica,2,Excelente producto,2024,9,35-49,False
+10290,18,Este,2025-02-26,linea_joven,1,Lo volvería a comprar,2025,2,18-24,True
+10291,41,Oeste,2024-10-30,linea_joven,2,Excelente producto,2024,10,35-49,True
+10292,20,Oeste,2025-03-30,linea_joven,2,Precio elevado,2025,3,18-24,True
+10293,26,Norte,2025-04-06,linea_orgánica,3,Muy buen aroma,2025,4,25-34,False
+10294,36,Oeste,2024-12-27,linea_profesional,1,No me gustó la textura,2024,12,35-49,False
+10295,25,Sur,2024-11-18,linea_orgánica,4,Lo volvería a comprar,2024,11,25-34,False
+10296,22,Sur,2025-04-08,linea_orgánica,1,No vi resultados,2025,4,18-24,False
+10297,42,Centro,2025-02-20,linea_joven,2,Excelente producto,2025,2,35-49,True
+10298,31,Este,2024-07-02,linea_joven,3,Me causó irritación,2024,7,25-34,True
+10299,37,Sur,2025-03-27,linea_orgánica,3,Me causó irritación,2025,3,35-49,False

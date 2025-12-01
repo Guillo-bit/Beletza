@@ -1,0 +1,9 @@
+SKU,Nombre Producto,Stock Actual,Stock Ideal,Devoluciones (Último mes),Motivo Devolución
+LJ-001,Crema Joven,97,231,10,No era lo esperado
+LJ-002,Loción Joven,150,336,18,No era lo esperado
+LJ-003,Serum Joven,219,333,5,Envase dañado
+LP-001,Serum Profesional,181,282,7,Envase dañado
+LP-002,Serum Profesional,57,220,17,No era lo esperado
+LO-001,Serum Orgánica,128,232,10,Envase dañado
+LO-002,Crema Orgánica,88,144,9,No era lo esperado
+LO-003,Crema Orgánica,231,309,16,No era lo esperado
